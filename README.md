@@ -1,4 +1,4 @@
-# Simple Tic-Tac-Toe with React
+# Simple Tic-Tac-Toe game with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
